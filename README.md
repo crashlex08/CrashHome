@@ -12,6 +12,7 @@ Magnifique page😊.
 
 
  <img width="689" alt="Capture d'écran 2024-06-26 114507" src="https://github.com/crashlex08/CrashHome/assets/173182804/562da913-1a87-4d92-ac29-03ea37a393fb">
+ Très satisfaisant 😄.
 
 # Ce site est la base de tous mes sites, car c'est ce site qui relie tous mes sites.
 
