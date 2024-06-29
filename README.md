@@ -1,5 +1,5 @@
 # CrashHome
-Application Home au-dedans se trouve huit boutons avec des images et des descriptions claires qui toute d'entre elles emmène dans des applications créer par moi-même 😁.
+Application Home ou-dedans se trouve huit boutons avec des images et des descriptions claires qui toute d'entre elles emmène dans des applications créer par moi-même 😁.
 
 #### La page principal
 
